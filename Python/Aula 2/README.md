@@ -1,28 +1,23 @@
-# Aula 2 – [Título da aula]
+# Aula 2 – Módulos, Pacotes e Bibliotecas
 
-Nesta aula trabalhamos os conceitos iniciais de **[tema principal]** em Python.
+Nesta aula trabalhamos os conceitos iniciais de **módulos e pacotes** em Python.
 
 ---
 
 ## 📚 Conteúdo abordado
 
-- [ponto 1]
-- [ponto 2]
-- [ponto 3]
-- [adicione os tópicos principais]
+- Criação de módulos (`.py`) com funções matemáticas
+- Importação de módulos no Python
+- Uso de pacotes externos (`pip install`)
+- Exemplos práticos com `emoji`, `faker` e `beautifulsoup4`
+- Introdução ao `matplotlib` para gráficos simples
 
 ---
 
 ## 📝 Arquivos desta aula
 
-- `Aula_2_[nome_do_notebook].ipynb`
-- Exemplos práticos:
-  - `arquivo_exemplo1.txt`
-  - `arquivo_exemplo2.txt`
-  - [adicione os arquivos criados]
-
----
-
-## 🚀 Objetivo da aula
-
-Consolidar o aprendizado em **[tema principal da aula]**, aplicando na prática com exercícios e exemplos.
+- `Aula_2.ipynb` → notebook com os exemplos da aula  
+- `calculadora.py` → funções de área, perímetro, circunferência e volume  
+- `geometria.py` → funções geométricas adicionais  
+- `formas_basicas.py` → funções para quadrado (área e perímetro)  
+- `circulo.py` → funções específicas para círculo
