@@ -1,0 +1,4 @@
+1. Estudar abertura e fechamento de arquivos
+2. Praticar escrita com .write()
+3. Praticar leitura com .read()
+4. Testar no Colab e salvar no GitHub

@@ -1,0 +1,2 @@
+Olá, bem-vindo ao mundo dos arquivos em Python!
+Meu nome é Vera
