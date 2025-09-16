@@ -21,3 +21,12 @@ Nesta aula trabalhamos os conceitos iniciais de **módulos e pacotes** em Python
 - `geometria.py` → funções geométricas adicionais  
 - `formas_basicas.py` → funções para quadrado (área e perímetro)  
 - `circulo.py` → funções específicas para círculo
+
+---
+
+## 🚀 Comandos Git usados
+
+```bash
+git add "Aula 2/"
+git commit -m "Adiciona notebook e arquivos .py da Aula 2"
+git push origin main
