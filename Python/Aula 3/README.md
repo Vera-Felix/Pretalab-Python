@@ -13,7 +13,24 @@ Nesta aula, organizamos o código em **módulos** e praticamos **raspagem web** 
   - acumula títulos em `noticias.txt`
   - mostra resumo no console
 
-## ▶️ Como executar
+## ▶️ Como executar, pré-requisitos e estrutura
 ```bash
+# executar
 python teste_arquivos.py      # testa funções do arquivos.py
 python coletor.py             # roda o coletor (versão simples)
+
+# pré-requisitos
+pip install requests beautifulsoup4
+
+# estrutura da pasta
+Aula 3/
+├─ README.md
+├─ arquivos.py
+├─ teste_arquivos.py
+├─ coletor.py
+├─ alunas.txt
+├─ frases.txt
+├─ numeros.txt
+├─ noticia.txt
+├─ noticias.txt
+└─ relatorio.txt
