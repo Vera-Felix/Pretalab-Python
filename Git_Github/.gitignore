@@ -1,0 +1,15 @@
+*
+!.gitignore
+!README.md
+!my-tasks.txt
+
+*.pdf
+*.docx
+pretalab-ciclo14-git-github/
+!treino-git/
+!treino-git/**
+
+# Permite a pasta de treino
+!Git_Github/
+!Git_Github/treino-git/
+!Git_Github/treino-git/**
