@@ -1,0 +1,1 @@
+Alteração temporária para treinar git stash.
