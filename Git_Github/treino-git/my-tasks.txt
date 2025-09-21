@@ -1,2 +1,2 @@
 - Planejar tags
-- Use 'git status' sempre
+- Use 'git status' sempre- [ ] Exercício: adicionar tarefas e fazer commits atômicos
