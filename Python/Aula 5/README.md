@@ -2,8 +2,7 @@
 
 Prática rápida para criar um banco **SQLite** no Python e treinar **CRUD** (Create, Read, Update, Delete).
 
-Link link banco dados:
-https://www.db-fiddle.com/f/un5JtiAyZywEnCnpmdRGr2/4 - aula 5
+Link: https://www.db-fiddle.com/f/un5JtiAyZywEnCnpmdRGr2/4 - aula 5
 
 ## 1) O que vamos fazer
 - Criar o arquivo **`usuarios.db`**.

@@ -3,8 +3,7 @@
 Nesta aula trabalhamos com **bancos de dados relacionais** usando **SQLite** (via Python e o pacote `sqlite3`).  
 O foco foi criar tabelas, inserir registros, executar consultas e aplicar operações **CRUD** (*Create, Read, Update, Delete*).
 
-Link link banco dados:
-https://www.db-fiddle.com/f/9E73GSb23NWJekFzmp6fHU/2 - aula 6
+Link: https://www.db-fiddle.com/f/9E73GSb23NWJekFzmp6fHU/2 - aula 6
 
 ---
 
