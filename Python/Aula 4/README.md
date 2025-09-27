@@ -2,7 +2,8 @@
 
 Nesta aula criamos um **banco de dados relacional** completo e praticamos consultas SQL para análise de informações.
 
----
+Link link banco dados:
+https://www.db-fiddle.com/f/pRMvaWFs8DsDd2QVJTnepY/9 - aula 4
 
 ## 📚 Conteúdo abordado
 
